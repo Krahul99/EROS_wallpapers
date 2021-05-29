@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #2b98b5, #2ea4bd, #33b1c5, #3bbdcb, #46cad1, #5bd3ce, #70dbcc, #85e3c9, #a3e8c2, #bfecbe, #d8efc0, #eef3c5);
+}
+h1,h2{
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow:1px 1px beige;
+}
+img{
+    height: 300px;
+    width: 450px;
+    border-radius: 20px;
+}
+hr{
+    line-height: 4;
+}

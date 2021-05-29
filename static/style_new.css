@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to right top, #2b98b5, #2ea4bd, #33b1c5, #3bbdcb, #46cad1, #5bd3ce, #70dbcc, #85e3c9, #a3e8c2, #bfecbe, #d8efc0, #eef3c5);
+    text-align: center;
+    height: 100%;
+}
+h1,h2,h3{
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow:1px 1px beige;
+}
+img{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+}
+#idea,#emo-back{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20%;
+}
+#idea:hover,#emo-back:hover{
+    background-color: red;
+}
