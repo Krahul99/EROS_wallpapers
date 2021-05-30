@@ -14,7 +14,7 @@ kiwisolver==1.2.0
 MarkupSafe==2.0.1
 matplotlib==3.2.2
 numpy==1.18.2
-opencv-contrib-python-headless==4.2.0
+opencv-contrib-python-headless==4.2.0.32
 Pillow==8.0.1
 pyparsing==2.4.7
 pytesseract==0.3.6
